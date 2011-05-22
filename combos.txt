@@ -1,0 +1,62 @@
+Vehicles:
+  Truck
+  Car
+  18 Wheeler
+  Trailer
+  Jalopy
+  Motorcycle
+  Bicycle
+  Pedestrian
+  Train
+  
+People:
+  Novice
+  Young
+  Average
+  Experienced
+  Mature
+  Expired
+{}
+  Horrible Driver
+  Bad Driver
+  Average Driver
+  Decent Driver
+  Good Driver
+  Great Driver  
+
+Actions:
+  Swerve
+  Accelerate
+  Decelerate
+  Signal
+  Change Lanes
+  Pull Over
+  Honk
+  
+Abilities:
+  SMMOG
+  Scanning
+  High Aim Vision
+  F2BE2M
+  Tailgate
+  Leave Room
+  Trail Brake
+
+Locations:
+  Urban
+  Rural
+  Mountain
+  Desert
+  Dirt Road
+  Highway
+
+Circumstances:
+  Drunk
+  Distracted
+  Flat Tire
+  No Brakes
+  Rain
+  Snow
+  Fog
+  Ice
+  Obstacle
